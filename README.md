@@ -98,4 +98,4 @@ This project directly demonstrates:
 ---
 
 ## Live Airtable Base
-[View the live tracker →](#) *(paste your Airtable share link here)*
+[View the live tracker →](#) *https://airtable.com/invite/l?inviteId=invRHXmBScwPx5izO&inviteToken=246f9201f97705456641d00170c2be47e4e570349bf919f39a8222ca7faa3bd1&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts*
