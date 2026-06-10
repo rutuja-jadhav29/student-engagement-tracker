@@ -1,0 +1,151 @@
+Student ID,Student Name,Cohort Year,Enrollment Status,Learning Pathway,Demographics,Race/Ethnicity,Start Date,Exit Date,Sessions Attended,Pre-Survey Score,Post-Survey Score,Score Change
+STU0001,Student 001,2023,Active,Leadership Development,None indicated,Hispanic/Latino,2023-09-08,,4,2.0,2.4,0.4
+STU0002,Student 002,2024,Active,Career Readiness,Pell-eligible,Unknown,2024-08-07,,4,2.7,2.9,0.2
+STU0003,Student 003,2024,Active,Academic Success,Pell-eligible,White,2024-09-26,,1,3.1,3.6,0.5
+STU0004,Student 004,2024,Active,Career Readiness,"First-gen, Pell-eligible",Multiracial,2024-09-04,,2,2.4,3.2,0.8
+STU0005,Student 005,2024,Active,Leadership Development,None indicated,White,2024-09-18,,2,3.5,4.3,0.8
+STU0006,Student 006,2024,Withdrawn,Career Readiness,Pell-eligible,Hispanic/Latino,2024-08-02,2024-09-21,11,2.2,2.2,0.0
+STU0007,Student 007,2024,Active,Academic Success,First-gen,Multiracial,2024-09-06,,6,2.4,3.7,1.3
+STU0008,Student 008,2023,Withdrawn,Leadership Development,None indicated,Black/African American,2023-08-06,2024-02-15,8,2.4,2.9,0.5
+STU0009,Student 009,2024,Active,Career Readiness,None indicated,Unknown,2024-08-26,,6,2.5,2.8,0.3
+STU0010,Student 010,2024,Active,Leadership Development,Pell-eligible,Unknown,2024-09-13,,11,2.6,3.2,0.6
+STU0011,Student 011,2024,Withdrawn,Academic Success,First-gen,Hispanic/Latino,2024-09-12,2025-02-15,4,3.5,3.4,-0.1
+STU0012,Student 012,2023,Active,Leadership Development,Pell-eligible,Multiracial,2023-08-26,,11,2.5,2.8,0.3
+STU0013,Student 013,2024,Withdrawn,Academic Success,"First-gen, Pell-eligible",Hispanic/Latino,2024-08-22,2024-11-28,12,2.0,2.4,0.4
+STU0014,Student 014,2024,Graduated,Career Readiness,First-gen,Unknown,2024-09-01,2025-05-17,12,3.3,3.9,0.6
+STU0015,Student 015,2024,Withdrawn,Leadership Development,First-gen,Multiracial,2024-08-05,2025-01-17,6,3.1,3.3,0.2
+STU0016,Student 016,2024,Graduated,Career Readiness,Pell-eligible,Hispanic/Latino,2024-08-12,2025-05-03,5,2.2,2.8,0.6
+STU0017,Student 017,2023,Active,Leadership Development,Pell-eligible,Black/African American,2023-09-18,,3,2.3,3.9,1.6
+STU0018,Student 018,2023,Active,Academic Success,First-gen,White,2023-09-15,,9,2.6,3.2,0.6
+STU0019,Student 019,2023,Withdrawn,Leadership Development,Pell-eligible,Hispanic/Latino,2023-08-19,2023-10-03,4,1.8,2.1,0.3
+STU0020,Student 020,2023,Active,Career Readiness,None indicated,Multiracial,2023-08-09,,11,2.6,3.7,1.1
+STU0021,Student 021,2024,Active,Academic Success,Pell-eligible,Asian,2024-09-07,,2,2.0,2.9,0.9
+STU0022,Student 022,2024,Active,Leadership Development,First-gen,Black/African American,2024-08-02,,7,3.0,4.5,1.5
+STU0023,Student 023,2023,Active,Leadership Development,First-gen,Asian,2023-09-05,,7,2.1,3.0,0.9
+STU0024,Student 024,2023,Active,Leadership Development,Pell-eligible,Asian,2023-08-03,,4,2.1,3.1,1.0
+STU0025,Student 025,2023,Active,Academic Success,"First-gen, Pell-eligible",Asian,2023-08-13,,5,3.4,4.9,1.5
+STU0026,Student 026,2024,Active,Career Readiness,"First-gen, Pell-eligible",Hispanic/Latino,2024-09-07,,1,2.8,3.9,1.1
+STU0027,Student 027,2023,Withdrawn,Academic Success,First-gen,Unknown,2023-08-02,2024-01-31,9,1.9,1.8,-0.1
+STU0028,Student 028,2023,Graduated,Career Readiness,Pell-eligible,Unknown,2023-08-19,2024-06-09,10,1.9,2.2,0.3
+STU0029,Student 029,2024,Active,Academic Success,First-gen,Hispanic/Latino,2024-09-05,,11,2.9,3.8,0.9
+STU0030,Student 030,2024,Withdrawn,Leadership Development,First-gen,Black/African American,2024-08-03,2024-11-30,9,2.2,2.2,0.0
+STU0031,Student 031,2024,Active,Career Readiness,None indicated,Hispanic/Latino,2024-09-27,,9,3.0,4.2,1.2
+STU0032,Student 032,2024,Active,Career Readiness,"First-gen, Pell-eligible",Multiracial,2024-09-04,,2,3.1,3.5,0.4
+STU0033,Student 033,2023,Active,Career Readiness,First-gen,Hispanic/Latino,2023-09-17,,8,2.2,3.9,1.7
+STU0034,Student 034,2024,Active,Career Readiness,Pell-eligible,Multiracial,2024-08-11,,3,2.9,3.5,0.6
+STU0035,Student 035,2024,Withdrawn,Career Readiness,None indicated,Multiracial,2024-08-03,2024-12-05,12,3.3,3.5,0.2
+STU0036,Student 036,2023,Graduated,Career Readiness,Pell-eligible,Unknown,2023-08-10,2024-05-12,6,3.3,4.8,1.5
+STU0037,Student 037,2023,Active,Academic Success,Pell-eligible,Black/African American,2023-09-20,,12,2.1,3.8,1.7
+STU0038,Student 038,2024,Active,Career Readiness,Pell-eligible,White,2024-09-26,,7,3.2,4.8,1.6
+STU0039,Student 039,2023,Active,Academic Success,Pell-eligible,White,2023-08-28,,8,2.2,3.7,1.5
+STU0040,Student 040,2024,Active,Career Readiness,First-gen,White,2024-08-22,,4,2.5,3.1,0.6
+STU0041,Student 041,2024,Withdrawn,Academic Success,"First-gen, Pell-eligible",Hispanic/Latino,2024-09-01,2025-02-26,2,3.3,3.3,0.0
+STU0042,Student 042,2023,Withdrawn,Academic Success,Pell-eligible,Multiracial,2023-09-24,2023-11-22,6,2.5,3.0,0.5
+STU0043,Student 043,2023,Active,Career Readiness,Pell-eligible,White,2023-09-01,,9,3.4,4.5,1.1
+STU0044,Student 044,2024,Active,Leadership Development,"First-gen, Pell-eligible",Multiracial,2024-09-20,,6,2.9,3.3,0.4
+STU0045,Student 045,2024,Graduated,Academic Success,Pell-eligible,Multiracial,2024-09-23,2025-06-22,5,2.7,3.2,0.5
+STU0046,Student 046,2024,Graduated,Leadership Development,Pell-eligible,Asian,2024-08-10,2025-06-15,5,2.2,3.7,1.5
+STU0047,Student 047,2023,Withdrawn,Academic Success,"First-gen, Pell-eligible",Hispanic/Latino,2023-08-22,2024-02-26,2,2.3,2.6,0.3
+STU0048,Student 048,2023,Active,Career Readiness,None indicated,Hispanic/Latino,2023-08-05,,1,1.9,3.7,1.8
+STU0049,Student 049,2024,Graduated,Leadership Development,First-gen,Hispanic/Latino,2024-08-23,2025-05-21,12,2.5,3.3,0.8
+STU0050,Student 050,2024,Active,Career Readiness,Pell-eligible,Black/African American,2024-09-02,,9,2.2,3.8,1.6
+STU0051,Student 051,2024,Withdrawn,Leadership Development,Pell-eligible,Multiracial,2024-09-25,2025-03-03,8,2.8,3.1,0.3
+STU0052,Student 052,2024,Active,Leadership Development,"First-gen, Pell-eligible",Multiracial,2024-09-15,,5,3.1,4.6,1.5
+STU0053,Student 053,2024,Active,Academic Success,"First-gen, Pell-eligible",Multiracial,2024-09-03,,12,2.3,2.9,0.6
+STU0054,Student 054,2023,Active,Career Readiness,Pell-eligible,Asian,2023-08-13,,12,2.1,2.6,0.5
+STU0055,Student 055,2024,Withdrawn,Academic Success,First-gen,Multiracial,2024-09-02,2025-02-28,4,3.2,3.3,0.1
+STU0056,Student 056,2024,Graduated,Career Readiness,None indicated,Multiracial,2024-09-10,2025-06-18,7,3.3,5.0,1.7
+STU0057,Student 057,2023,Graduated,Career Readiness,Pell-eligible,Asian,2023-09-14,2024-06-24,8,1.8,2.5,0.7
+STU0058,Student 058,2023,Withdrawn,Leadership Development,Pell-eligible,Black/African American,2023-08-13,2024-02-23,10,2.8,2.6,-0.2
+STU0059,Student 059,2024,Active,Career Readiness,Pell-eligible,White,2024-09-13,,6,2.2,2.9,0.7
+STU0060,Student 060,2024,Active,Career Readiness,"First-gen, Pell-eligible",Black/African American,2024-09-01,,12,2.7,4.5,1.8
+STU0061,Student 061,2023,Active,Career Readiness,Pell-eligible,Unknown,2023-08-07,,1,2.9,3.5,0.6
+STU0062,Student 062,2023,Withdrawn,Career Readiness,First-gen,Black/African American,2023-09-23,2024-03-26,5,3.1,3.0,-0.1
+STU0063,Student 063,2024,Active,Leadership Development,Pell-eligible,Unknown,2024-08-10,,10,3.0,4.7,1.7
+STU0064,Student 064,2023,Active,Leadership Development,None indicated,Hispanic/Latino,2023-08-04,,12,3.1,4.7,1.6
+STU0065,Student 065,2023,Active,Leadership Development,First-gen,Asian,2023-09-22,,6,1.9,3.1,1.2
+STU0066,Student 066,2024,Active,Academic Success,None indicated,Unknown,2024-09-21,,8,3.0,3.9,0.9
+STU0067,Student 067,2024,Withdrawn,Leadership Development,Pell-eligible,Hispanic/Latino,2024-09-15,2025-01-05,7,3.2,3.4,0.2
+STU0068,Student 068,2024,Graduated,Career Readiness,"First-gen, Pell-eligible",Black/African American,2024-09-19,2025-06-28,10,2.9,3.6,0.7
+STU0069,Student 069,2024,Active,Academic Success,"First-gen, Pell-eligible",Multiracial,2024-09-11,,5,3.3,4.6,1.3
+STU0070,Student 070,2023,Withdrawn,Career Readiness,Pell-eligible,Unknown,2023-08-08,2023-11-07,12,2.5,2.7,0.2
+STU0071,Student 071,2024,Graduated,Career Readiness,None indicated,Multiracial,2024-08-10,2025-06-16,4,2.5,3.1,0.6
+STU0072,Student 072,2024,Graduated,Leadership Development,Pell-eligible,White,2024-09-12,2025-05-04,12,2.6,3.3,0.7
+STU0073,Student 073,2023,Withdrawn,Leadership Development,None indicated,Multiracial,2023-08-07,2024-02-03,4,3.1,3.1,0.0
+STU0074,Student 074,2024,Active,Career Readiness,None indicated,Black/African American,2024-09-08,,6,2.1,2.3,0.2
+STU0075,Student 075,2024,Active,Career Readiness,First-gen,Hispanic/Latino,2024-09-23,,3,2.9,4.3,1.4
+STU0076,Student 076,2024,Graduated,Academic Success,First-gen,Asian,2024-09-11,2025-06-04,3,3.4,4.0,0.6
+STU0077,Student 077,2024,Active,Leadership Development,First-gen,Black/African American,2024-08-05,,3,3.2,4.9,1.7
+STU0078,Student 078,2023,Withdrawn,Academic Success,None indicated,Asian,2023-08-25,2023-12-09,9,2.4,2.8,0.4
+STU0079,Student 079,2024,Withdrawn,Leadership Development,Pell-eligible,White,2024-08-20,2025-02-26,12,2.0,2.3,0.3
+STU0080,Student 080,2023,Active,Career Readiness,None indicated,Asian,2023-08-18,,2,2.1,3.0,0.9
+STU0081,Student 081,2024,Active,Career Readiness,Pell-eligible,White,2024-09-23,,5,3.0,3.9,0.9
+STU0082,Student 082,2023,Graduated,Career Readiness,Pell-eligible,White,2023-08-21,2024-05-02,3,3.3,4.8,1.5
+STU0083,Student 083,2024,Graduated,Career Readiness,First-gen,Multiracial,2024-09-23,2025-06-15,5,3.0,4.7,1.7
+STU0084,Student 084,2023,Graduated,Leadership Development,"First-gen, Pell-eligible",Multiracial,2023-09-20,2024-05-25,5,1.8,2.4,0.6
+STU0085,Student 085,2023,Active,Academic Success,Pell-eligible,Hispanic/Latino,2023-09-09,,3,3.5,4.4,0.9
+STU0086,Student 086,2024,Active,Academic Success,Pell-eligible,Unknown,2024-09-11,,11,2.0,2.5,0.5
+STU0087,Student 087,2024,Active,Leadership Development,"First-gen, Pell-eligible",White,2024-09-27,,9,1.9,2.2,0.3
+STU0088,Student 088,2023,Graduated,Leadership Development,Pell-eligible,Unknown,2023-08-22,2024-06-20,9,2.6,2.9,0.3
+STU0089,Student 089,2024,Active,Career Readiness,Pell-eligible,Hispanic/Latino,2024-09-18,,3,3.4,4.3,0.9
+STU0090,Student 090,2023,Withdrawn,Career Readiness,First-gen,Asian,2023-08-10,2023-11-05,9,1.8,1.9,0.1
+STU0091,Student 091,2023,Active,Academic Success,Pell-eligible,Black/African American,2023-09-17,,12,2.3,3.8,1.5
+STU0092,Student 092,2024,Withdrawn,Career Readiness,"First-gen, Pell-eligible",Asian,2024-09-07,2024-10-24,10,2.7,3.1,0.4
+STU0093,Student 093,2024,Withdrawn,Academic Success,Pell-eligible,Black/African American,2024-08-10,2025-02-24,12,2.3,2.5,0.2
+STU0094,Student 094,2024,Withdrawn,Academic Success,Pell-eligible,Unknown,2024-09-11,2025-01-01,9,3.1,3.2,0.1
+STU0095,Student 095,2023,Withdrawn,Academic Success,Pell-eligible,Unknown,2023-08-28,2024-01-02,7,1.9,2.2,0.3
+STU0096,Student 096,2023,Graduated,Career Readiness,None indicated,Asian,2023-08-17,2024-06-04,10,2.4,2.8,0.4
+STU0097,Student 097,2023,Active,Academic Success,None indicated,Unknown,2023-08-03,,8,3.1,3.7,0.6
+STU0098,Student 098,2024,Active,Academic Success,None indicated,Hispanic/Latino,2024-09-11,,11,3.0,4.4,1.4
+STU0099,Student 099,2023,Active,Leadership Development,First-gen,Asian,2023-09-08,,12,2.0,3.8,1.8
+STU0100,Student 100,2023,Active,Career Readiness,Pell-eligible,Black/African American,2023-08-11,,1,2.3,3.1,0.8
+STU0101,Student 101,2024,Withdrawn,Leadership Development,Pell-eligible,Asian,2024-08-06,2025-02-10,3,1.9,2.3,0.4
+STU0102,Student 102,2023,Active,Academic Success,Pell-eligible,White,2023-09-15,,5,2.9,4.5,1.6
+STU0103,Student 103,2023,Active,Academic Success,"First-gen, Pell-eligible",Asian,2023-09-19,,5,2.9,3.8,0.9
+STU0104,Student 104,2024,Active,Academic Success,"First-gen, Pell-eligible",Unknown,2024-09-04,,4,2.4,3.2,0.8
+STU0105,Student 105,2024,Active,Leadership Development,First-gen,Multiracial,2024-09-09,,1,2.8,4.1,1.3
+STU0106,Student 106,2024,Active,Career Readiness,Pell-eligible,Unknown,2024-09-08,,11,2.1,2.7,0.6
+STU0107,Student 107,2023,Active,Academic Success,"First-gen, Pell-eligible",White,2023-09-02,,10,2.4,2.8,0.4
+STU0108,Student 108,2024,Active,Career Readiness,None indicated,White,2024-08-26,,9,3.3,4.1,0.8
+STU0109,Student 109,2023,Active,Academic Success,First-gen,Black/African American,2023-09-24,,6,3.2,4.1,0.9
+STU0110,Student 110,2023,Graduated,Leadership Development,"First-gen, Pell-eligible",Multiracial,2023-09-03,2024-06-12,7,1.8,2.9,1.1
+STU0111,Student 111,2024,Active,Career Readiness,"First-gen, Pell-eligible",Multiracial,2024-08-16,,1,2.9,4.6,1.7
+STU0112,Student 112,2023,Active,Leadership Development,First-gen,Hispanic/Latino,2023-09-23,,5,2.9,3.3,0.4
+STU0113,Student 113,2024,Graduated,Career Readiness,Pell-eligible,Asian,2024-08-08,2025-06-19,9,2.0,2.9,0.9
+STU0114,Student 114,2023,Graduated,Leadership Development,"First-gen, Pell-eligible",Hispanic/Latino,2023-09-09,2024-06-08,1,3.0,3.5,0.5
+STU0115,Student 115,2024,Withdrawn,Leadership Development,First-gen,Unknown,2024-09-02,2025-01-26,7,2.3,2.8,0.5
+STU0116,Student 116,2023,Withdrawn,Career Readiness,Pell-eligible,Hispanic/Latino,2023-08-26,2024-02-16,6,2.2,2.1,-0.1
+STU0117,Student 117,2023,Withdrawn,Career Readiness,Pell-eligible,Black/African American,2023-08-11,2023-11-19,3,3.1,3.3,0.2
+STU0118,Student 118,2024,Active,Career Readiness,None indicated,White,2024-08-05,,1,2.4,3.9,1.5
+STU0119,Student 119,2023,Active,Academic Success,First-gen,Asian,2023-08-05,,12,2.5,2.9,0.4
+STU0120,Student 120,2024,Active,Leadership Development,None indicated,White,2024-08-15,,9,2.2,3.4,1.2
+STU0121,Student 121,2024,Active,Career Readiness,Pell-eligible,Hispanic/Latino,2024-09-28,,7,2.5,2.9,0.4
+STU0122,Student 122,2023,Active,Leadership Development,None indicated,Unknown,2023-08-03,,3,2.3,3.5,1.2
+STU0123,Student 123,2024,Graduated,Leadership Development,None indicated,Unknown,2024-09-15,2025-05-28,9,2.8,3.2,0.4
+STU0124,Student 124,2023,Graduated,Academic Success,Pell-eligible,White,2023-08-14,2024-05-11,6,3.2,4.0,0.8
+STU0125,Student 125,2024,Active,Career Readiness,First-gen,Unknown,2024-09-03,,2,3.2,3.5,0.3
+STU0126,Student 126,2024,Active,Leadership Development,Pell-eligible,White,2024-08-19,,9,2.8,4.1,1.3
+STU0127,Student 127,2024,Active,Academic Success,Pell-eligible,Black/African American,2024-09-12,,2,2.8,3.3,0.5
+STU0128,Student 128,2023,Active,Leadership Development,None indicated,Multiracial,2023-09-04,,5,2.8,4.3,1.5
+STU0129,Student 129,2023,Withdrawn,Leadership Development,"First-gen, Pell-eligible",Hispanic/Latino,2023-09-01,2023-12-26,3,2.3,2.6,0.3
+STU0130,Student 130,2023,Active,Leadership Development,First-gen,Unknown,2023-09-03,,3,3.1,4.9,1.8
+STU0131,Student 131,2023,Graduated,Academic Success,Pell-eligible,Black/African American,2023-09-11,2024-05-02,3,2.4,3.8,1.4
+STU0132,Student 132,2023,Active,Academic Success,"First-gen, Pell-eligible",Black/African American,2023-09-22,,7,2.6,3.5,0.9
+STU0133,Student 133,2023,Active,Academic Success,"First-gen, Pell-eligible",Hispanic/Latino,2023-08-10,,11,3.0,4.0,1.0
+STU0134,Student 134,2023,Graduated,Leadership Development,"First-gen, Pell-eligible",White,2023-08-01,2024-05-25,4,2.3,2.8,0.5
+STU0135,Student 135,2024,Active,Career Readiness,Pell-eligible,Multiracial,2024-09-24,,7,2.1,2.9,0.8
+STU0136,Student 136,2024,Active,Academic Success,"First-gen, Pell-eligible",Multiracial,2024-08-14,,1,2.6,2.9,0.3
+STU0137,Student 137,2024,Withdrawn,Academic Success,None indicated,Asian,2024-09-10,2024-11-22,2,2.5,3.0,0.5
+STU0138,Student 138,2024,Active,Academic Success,Pell-eligible,White,2024-08-08,,7,2.8,3.8,1.0
+STU0139,Student 139,2024,Active,Academic Success,Pell-eligible,White,2024-08-03,,9,2.9,3.9,1.0
+STU0140,Student 140,2024,Active,Career Readiness,First-gen,Black/African American,2024-08-05,,5,2.1,3.3,1.2
+STU0141,Student 141,2024,Graduated,Leadership Development,"First-gen, Pell-eligible",Black/African American,2024-09-22,2025-06-28,10,2.9,4.7,1.8
+STU0142,Student 142,2024,Active,Academic Success,"First-gen, Pell-eligible",Multiracial,2024-09-21,,5,3.2,4.3,1.1
+STU0143,Student 143,2023,Active,Academic Success,First-gen,Multiracial,2023-09-02,,1,2.4,3.1,0.7
+STU0144,Student 144,2024,Graduated,Leadership Development,Pell-eligible,Hispanic/Latino,2024-08-15,2025-06-17,10,2.9,3.6,0.7
+STU0145,Student 145,2024,Active,Academic Success,Pell-eligible,Asian,2024-08-17,,11,2.1,2.7,0.6
+STU0146,Student 146,2023,Active,Academic Success,First-gen,Unknown,2023-09-13,,7,3.1,4.4,1.3
+STU0147,Student 147,2024,Active,Academic Success,None indicated,Black/African American,2024-08-18,,11,2.5,3.1,0.6
+STU0148,Student 148,2024,Active,Leadership Development,Pell-eligible,Black/African American,2024-08-12,,5,3.4,4.7,1.3
+STU0149,Student 149,2023,Active,Leadership Development,None indicated,Hispanic/Latino,2023-09-21,,6,3.2,4.5,1.3
+STU0150,Student 150,2024,Withdrawn,Academic Success,Pell-eligible,Black/African American,2024-08-12,2025-01-13,5,2.1,2.0,-0.1

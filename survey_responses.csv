@@ -1,0 +1,281 @@
+Response ID,Student ID,Survey Type,Assessment Tool,Response Date,Composite Score,Q1 - Self-efficacy,Q2 - Belonging,Q3 - Career clarity,Open-ended response
+RESP0001,STU0001,Pre,Leadership Development Survey,2023-09-08,2.0,2,2,2,I feel more confident about my path.
+RESP0002,STU0001,Post,Leadership Development Survey,2024-05-15,2.4,3,2,3,I feel more confident about my path.
+RESP0003,STU0002,Pre,Career Readiness Survey,2024-08-07,2.7,2,3,3,
+RESP0004,STU0002,Post,Career Readiness Survey,2024-05-15,2.9,3,2,3,The workshops helped me understand my options.
+RESP0005,STU0003,Pre,Academic Success Survey,2024-09-26,3.1,3,4,3,Would love more one-on-one support.
+RESP0006,STU0003,Post,Academic Success Survey,2024-05-15,3.6,4,4,3,I appreciated the peer connections.
+RESP0007,STU0004,Pre,Career Readiness Survey,2024-09-04,2.4,3,3,2,Very helpful overall.
+RESP0008,STU0004,Post,Career Readiness Survey,2024-05-15,3.2,3,3,4,I feel more confident about my path.
+RESP0009,STU0005,Pre,Leadership Development Survey,2024-09-18,3.5,4,3,4,The workshops helped me understand my options.
+RESP0010,STU0005,Post,Leadership Development Survey,2024-05-15,4.3,5,4,5,Would love more one-on-one support.
+RESP0011,STU0006,Pre,Career Readiness Survey,2024-08-02,2.2,2,2,3,I appreciated the peer connections.
+RESP0012,STU0006,Post,Career Readiness Survey,2024-09-21,2.2,2,2,2,I appreciated the peer connections.
+RESP0013,STU0007,Pre,Academic Success Survey,2024-09-06,2.4,2,3,2,Would love more one-on-one support.
+RESP0014,STU0007,Post,Academic Success Survey,2024-05-15,3.7,4,3,4,I appreciated the peer connections.
+RESP0015,STU0008,Pre,Leadership Development Survey,2023-08-06,2.4,2,2,2,Would love more one-on-one support.
+RESP0016,STU0008,Post,Leadership Development Survey,2024-02-15,2.9,3,2,3,I appreciated the peer connections.
+RESP0017,STU0009,Pre,Career Readiness Survey,2024-08-26,2.5,3,3,2,
+RESP0018,STU0009,Post,Career Readiness Survey,2024-05-15,2.8,3,3,3,I feel more confident about my path.
+RESP0019,STU0010,Pre,Leadership Development Survey,2024-09-13,2.6,3,2,3,Would love more one-on-one support.
+RESP0020,STU0010,Post,Leadership Development Survey,2024-05-15,3.2,3,3,3,The workshops helped me understand my options.
+RESP0021,STU0011,Pre,Academic Success Survey,2024-09-12,3.5,3,3,3,Very helpful overall.
+RESP0022,STU0011,Post,Academic Success Survey,2025-02-15,3.4,3,4,4,I feel more confident about my path.
+RESP0023,STU0012,Pre,Leadership Development Survey,2023-08-26,2.5,3,2,2,
+RESP0024,STU0012,Post,Leadership Development Survey,2024-05-15,2.8,3,3,3,I appreciated the peer connections.
+RESP0025,STU0013,Pre,Academic Success Survey,2024-08-22,2.0,2,2,2,I appreciated the peer connections.
+RESP0026,STU0013,Post,Academic Success Survey,2024-11-28,2.4,2,2,2,
+RESP0027,STU0014,Pre,Career Readiness Survey,2024-09-01,3.3,4,3,4,Would love more one-on-one support.
+RESP0028,STU0014,Post,Career Readiness Survey,2025-05-17,3.9,4,4,4,The workshops helped me understand my options.
+RESP0029,STU0015,Pre,Leadership Development Survey,2024-08-05,3.1,3,3,3,Very helpful overall.
+RESP0030,STU0016,Pre,Career Readiness Survey,2024-08-12,2.2,2,2,2,I feel more confident about my path.
+RESP0031,STU0016,Post,Career Readiness Survey,2025-05-03,2.8,3,3,3,Very helpful overall.
+RESP0032,STU0017,Pre,Leadership Development Survey,2023-09-18,2.3,2,2,2,I feel more confident about my path.
+RESP0033,STU0017,Post,Leadership Development Survey,2024-05-15,3.9,4,4,4,Very helpful overall.
+RESP0034,STU0018,Pre,Academic Success Survey,2023-09-15,2.6,3,2,2,Would love more one-on-one support.
+RESP0035,STU0018,Post,Academic Success Survey,2024-05-15,3.2,3,3,3,I appreciated the peer connections.
+RESP0036,STU0019,Pre,Leadership Development Survey,2023-08-19,1.8,2,2,2,
+RESP0037,STU0020,Pre,Career Readiness Survey,2023-08-09,2.6,2,3,3,Very helpful overall.
+RESP0038,STU0020,Post,Career Readiness Survey,2024-05-15,3.7,4,4,3,Would love more one-on-one support.
+RESP0039,STU0021,Pre,Academic Success Survey,2024-09-07,2.0,2,2,2,
+RESP0040,STU0021,Post,Academic Success Survey,2024-05-15,2.9,3,3,3,Would love more one-on-one support.
+RESP0041,STU0022,Pre,Leadership Development Survey,2024-08-02,3.0,3,3,3,I feel more confident about my path.
+RESP0042,STU0022,Post,Leadership Development Survey,2024-05-15,4.5,5,5,5,
+RESP0043,STU0023,Pre,Leadership Development Survey,2023-09-05,2.1,2,2,3,Would love more one-on-one support.
+RESP0044,STU0023,Post,Leadership Development Survey,2024-05-15,3.0,3,3,3,I feel more confident about my path.
+RESP0045,STU0024,Pre,Leadership Development Survey,2023-08-03,2.1,2,3,2,
+RESP0046,STU0024,Post,Leadership Development Survey,2024-05-15,3.1,3,3,3,The workshops helped me understand my options.
+RESP0047,STU0025,Pre,Academic Success Survey,2023-08-13,3.4,3,3,3,
+RESP0048,STU0025,Post,Academic Success Survey,2024-05-15,4.9,5,4,5,Very helpful overall.
+RESP0049,STU0026,Pre,Career Readiness Survey,2024-09-07,2.8,3,3,2,The workshops helped me understand my options.
+RESP0050,STU0026,Post,Career Readiness Survey,2024-05-15,3.9,3,4,4,
+RESP0051,STU0027,Pre,Academic Success Survey,2023-08-02,1.9,2,1,2,Would love more one-on-one support.
+RESP0052,STU0028,Pre,Career Readiness Survey,2023-08-19,1.9,2,2,2,The workshops helped me understand my options.
+RESP0053,STU0028,Post,Career Readiness Survey,2024-06-09,2.2,2,2,3,
+RESP0054,STU0029,Pre,Academic Success Survey,2024-09-05,2.9,3,3,3,I appreciated the peer connections.
+RESP0055,STU0029,Post,Academic Success Survey,2024-05-15,3.8,4,4,4,Very helpful overall.
+RESP0056,STU0030,Pre,Leadership Development Survey,2024-08-03,2.2,2,2,2,Very helpful overall.
+RESP0057,STU0030,Post,Leadership Development Survey,2024-11-30,2.2,3,2,2,Would love more one-on-one support.
+RESP0058,STU0031,Pre,Career Readiness Survey,2024-09-27,3.0,3,3,3,Would love more one-on-one support.
+RESP0059,STU0031,Post,Career Readiness Survey,2024-05-15,4.2,4,4,4,The workshops helped me understand my options.
+RESP0060,STU0032,Pre,Career Readiness Survey,2024-09-04,3.1,3,3,3,The workshops helped me understand my options.
+RESP0061,STU0032,Post,Career Readiness Survey,2024-05-15,3.5,4,3,4,Would love more one-on-one support.
+RESP0062,STU0033,Pre,Career Readiness Survey,2023-09-17,2.2,3,2,3,Very helpful overall.
+RESP0063,STU0033,Post,Career Readiness Survey,2024-05-15,3.9,4,4,4,I appreciated the peer connections.
+RESP0064,STU0034,Pre,Career Readiness Survey,2024-08-11,2.9,3,3,3,I feel more confident about my path.
+RESP0065,STU0034,Post,Career Readiness Survey,2024-05-15,3.5,4,4,3,Would love more one-on-one support.
+RESP0066,STU0035,Pre,Career Readiness Survey,2024-08-03,3.3,3,3,4,The workshops helped me understand my options.
+RESP0067,STU0035,Post,Career Readiness Survey,2024-12-05,3.5,4,4,3,The workshops helped me understand my options.
+RESP0068,STU0036,Pre,Career Readiness Survey,2023-08-10,3.3,4,3,4,I feel more confident about my path.
+RESP0069,STU0036,Post,Career Readiness Survey,2024-05-12,4.8,5,4,5,
+RESP0070,STU0037,Pre,Academic Success Survey,2023-09-20,2.1,3,2,2,Very helpful overall.
+RESP0071,STU0037,Post,Academic Success Survey,2024-05-15,3.8,4,4,4,I appreciated the peer connections.
+RESP0072,STU0038,Pre,Career Readiness Survey,2024-09-26,3.2,3,3,3,I appreciated the peer connections.
+RESP0073,STU0038,Post,Career Readiness Survey,2024-05-15,4.8,5,5,5,Would love more one-on-one support.
+RESP0074,STU0039,Pre,Academic Success Survey,2023-08-28,2.2,2,3,2,I appreciated the peer connections.
+RESP0075,STU0039,Post,Academic Success Survey,2024-05-15,3.7,4,4,4,Very helpful overall.
+RESP0076,STU0040,Pre,Career Readiness Survey,2024-08-22,2.5,3,3,2,Very helpful overall.
+RESP0077,STU0040,Post,Career Readiness Survey,2024-05-15,3.1,4,3,3,The workshops helped me understand my options.
+RESP0078,STU0041,Pre,Academic Success Survey,2024-09-01,3.3,3,3,3,The workshops helped me understand my options.
+RESP0079,STU0042,Pre,Academic Success Survey,2023-09-24,2.5,3,3,2,Would love more one-on-one support.
+RESP0080,STU0042,Post,Academic Success Survey,2023-11-22,3.0,3,3,3,I appreciated the peer connections.
+RESP0081,STU0043,Pre,Career Readiness Survey,2023-09-01,3.4,3,4,3,Very helpful overall.
+RESP0082,STU0043,Post,Career Readiness Survey,2024-05-15,4.5,5,5,5,I feel more confident about my path.
+RESP0083,STU0044,Pre,Leadership Development Survey,2024-09-20,2.9,3,3,3,Would love more one-on-one support.
+RESP0084,STU0044,Post,Leadership Development Survey,2024-05-15,3.3,3,3,3,The workshops helped me understand my options.
+RESP0085,STU0045,Pre,Academic Success Survey,2024-09-23,2.7,2,3,3,Very helpful overall.
+RESP0086,STU0045,Post,Academic Success Survey,2025-06-22,3.2,3,4,4,
+RESP0087,STU0046,Pre,Leadership Development Survey,2024-08-10,2.2,2,2,2,I feel more confident about my path.
+RESP0088,STU0046,Post,Leadership Development Survey,2025-06-15,3.7,3,4,4,I appreciated the peer connections.
+RESP0089,STU0047,Pre,Academic Success Survey,2023-08-22,2.3,2,3,2,The workshops helped me understand my options.
+RESP0090,STU0048,Pre,Career Readiness Survey,2023-08-05,1.9,1,2,2,Very helpful overall.
+RESP0091,STU0048,Post,Career Readiness Survey,2024-05-15,3.7,3,4,4,I feel more confident about my path.
+RESP0092,STU0049,Pre,Leadership Development Survey,2024-08-23,2.5,2,2,3,
+RESP0093,STU0049,Post,Leadership Development Survey,2025-05-21,3.3,3,3,4,
+RESP0094,STU0050,Pre,Career Readiness Survey,2024-09-02,2.2,3,2,2,Would love more one-on-one support.
+RESP0095,STU0050,Post,Career Readiness Survey,2024-05-15,3.8,4,4,3,I feel more confident about my path.
+RESP0096,STU0051,Pre,Leadership Development Survey,2024-09-25,2.8,3,2,3,
+RESP0097,STU0051,Post,Leadership Development Survey,2025-03-03,3.1,3,3,3,Very helpful overall.
+RESP0098,STU0052,Pre,Leadership Development Survey,2024-09-15,3.1,4,3,4,
+RESP0099,STU0052,Post,Leadership Development Survey,2024-05-15,4.6,5,5,4,I feel more confident about my path.
+RESP0100,STU0053,Pre,Academic Success Survey,2024-09-03,2.3,2,2,2,
+RESP0101,STU0053,Post,Academic Success Survey,2024-05-15,2.9,2,3,3,The workshops helped me understand my options.
+RESP0102,STU0054,Pre,Career Readiness Survey,2023-08-13,2.1,2,2,2,Would love more one-on-one support.
+RESP0103,STU0054,Post,Career Readiness Survey,2024-05-15,2.6,3,2,3,Very helpful overall.
+RESP0104,STU0055,Pre,Academic Success Survey,2024-09-02,3.2,4,3,4,I appreciated the peer connections.
+RESP0105,STU0056,Pre,Career Readiness Survey,2024-09-10,3.3,4,4,3,I feel more confident about my path.
+RESP0106,STU0056,Post,Career Readiness Survey,2025-06-18,5.0,5,5,5,Would love more one-on-one support.
+RESP0107,STU0057,Pre,Career Readiness Survey,2023-09-14,1.8,2,1,2,Very helpful overall.
+RESP0108,STU0057,Post,Career Readiness Survey,2024-06-24,2.5,3,2,3,I feel more confident about my path.
+RESP0109,STU0058,Pre,Leadership Development Survey,2023-08-13,2.8,3,3,3,The workshops helped me understand my options.
+RESP0110,STU0059,Pre,Career Readiness Survey,2024-09-13,2.2,3,2,2,
+RESP0111,STU0059,Post,Career Readiness Survey,2024-05-15,2.9,3,3,3,The workshops helped me understand my options.
+RESP0112,STU0060,Pre,Career Readiness Survey,2024-09-01,2.7,3,2,2,
+RESP0113,STU0060,Post,Career Readiness Survey,2024-05-15,4.5,5,4,4,I appreciated the peer connections.
+RESP0114,STU0061,Pre,Career Readiness Survey,2023-08-07,2.9,3,2,3,I appreciated the peer connections.
+RESP0115,STU0061,Post,Career Readiness Survey,2024-05-15,3.5,4,3,3,Would love more one-on-one support.
+RESP0116,STU0062,Pre,Career Readiness Survey,2023-09-23,3.1,3,3,3,I feel more confident about my path.
+RESP0117,STU0063,Pre,Leadership Development Survey,2024-08-10,3.0,3,3,3,Would love more one-on-one support.
+RESP0118,STU0063,Post,Leadership Development Survey,2024-05-15,4.7,4,5,5,
+RESP0119,STU0064,Pre,Leadership Development Survey,2023-08-04,3.1,4,4,4,Very helpful overall.
+RESP0120,STU0064,Post,Leadership Development Survey,2024-05-15,4.7,5,5,4,I appreciated the peer connections.
+RESP0121,STU0065,Pre,Leadership Development Survey,2023-09-22,1.9,2,2,1,Would love more one-on-one support.
+RESP0122,STU0065,Post,Leadership Development Survey,2024-05-15,3.1,3,3,3,I appreciated the peer connections.
+RESP0123,STU0066,Pre,Academic Success Survey,2024-09-21,3.0,3,3,3,Very helpful overall.
+RESP0124,STU0066,Post,Academic Success Survey,2024-05-15,3.9,4,4,4,I feel more confident about my path.
+RESP0125,STU0067,Pre,Leadership Development Survey,2024-09-15,3.2,4,3,3,I appreciated the peer connections.
+RESP0126,STU0068,Pre,Career Readiness Survey,2024-09-19,2.9,3,3,3,Very helpful overall.
+RESP0127,STU0068,Post,Career Readiness Survey,2025-06-28,3.6,3,3,4,The workshops helped me understand my options.
+RESP0128,STU0069,Pre,Academic Success Survey,2024-09-11,3.3,3,3,3,I appreciated the peer connections.
+RESP0129,STU0069,Post,Academic Success Survey,2024-05-15,4.6,4,5,5,Very helpful overall.
+RESP0130,STU0070,Pre,Career Readiness Survey,2023-08-08,2.5,3,2,2,Would love more one-on-one support.
+RESP0131,STU0071,Pre,Career Readiness Survey,2024-08-10,2.5,3,2,3,The workshops helped me understand my options.
+RESP0132,STU0071,Post,Career Readiness Survey,2025-06-16,3.1,3,3,4,Would love more one-on-one support.
+RESP0133,STU0072,Pre,Leadership Development Survey,2024-09-12,2.6,3,2,3,
+RESP0134,STU0072,Post,Leadership Development Survey,2025-05-04,3.3,3,4,4,
+RESP0135,STU0073,Pre,Leadership Development Survey,2023-08-07,3.1,3,3,3,
+RESP0136,STU0074,Pre,Career Readiness Survey,2024-09-08,2.1,2,2,2,Very helpful overall.
+RESP0137,STU0074,Post,Career Readiness Survey,2024-05-15,2.3,2,2,2,
+RESP0138,STU0075,Pre,Career Readiness Survey,2024-09-23,2.9,3,2,3,
+RESP0139,STU0075,Post,Career Readiness Survey,2024-05-15,4.3,5,4,4,I feel more confident about my path.
+RESP0140,STU0076,Pre,Academic Success Survey,2024-09-11,3.4,3,3,4,The workshops helped me understand my options.
+RESP0141,STU0076,Post,Academic Success Survey,2025-06-04,4.0,4,4,4,
+RESP0142,STU0077,Pre,Leadership Development Survey,2024-08-05,3.2,3,4,3,Would love more one-on-one support.
+RESP0143,STU0077,Post,Leadership Development Survey,2024-05-15,4.9,5,4,5,
+RESP0144,STU0078,Pre,Academic Success Survey,2023-08-25,2.4,2,2,2,Would love more one-on-one support.
+RESP0145,STU0079,Pre,Leadership Development Survey,2024-08-20,2.0,2,2,2,The workshops helped me understand my options.
+RESP0146,STU0080,Pre,Career Readiness Survey,2023-08-18,2.1,2,2,2,I feel more confident about my path.
+RESP0147,STU0080,Post,Career Readiness Survey,2024-05-15,3.0,3,3,3,I appreciated the peer connections.
+RESP0148,STU0081,Pre,Career Readiness Survey,2024-09-23,3.0,3,3,3,I appreciated the peer connections.
+RESP0149,STU0081,Post,Career Readiness Survey,2024-05-15,3.9,4,4,4,I appreciated the peer connections.
+RESP0150,STU0082,Pre,Career Readiness Survey,2023-08-21,3.3,3,3,4,I feel more confident about my path.
+RESP0151,STU0082,Post,Career Readiness Survey,2024-05-02,4.8,5,5,5,The workshops helped me understand my options.
+RESP0152,STU0083,Pre,Career Readiness Survey,2024-09-23,3.0,3,3,3,Very helpful overall.
+RESP0153,STU0083,Post,Career Readiness Survey,2025-06-15,4.7,4,5,5,The workshops helped me understand my options.
+RESP0154,STU0084,Pre,Leadership Development Survey,2023-09-20,1.8,2,2,1,
+RESP0155,STU0084,Post,Leadership Development Survey,2024-05-25,2.4,2,2,3,The workshops helped me understand my options.
+RESP0156,STU0085,Pre,Academic Success Survey,2023-09-09,3.5,3,3,3,The workshops helped me understand my options.
+RESP0157,STU0085,Post,Academic Success Survey,2024-05-15,4.4,4,5,5,I feel more confident about my path.
+RESP0158,STU0086,Pre,Academic Success Survey,2024-09-11,2.0,2,2,2,I appreciated the peer connections.
+RESP0159,STU0086,Post,Academic Success Survey,2024-05-15,2.5,2,2,2,Would love more one-on-one support.
+RESP0160,STU0087,Pre,Leadership Development Survey,2024-09-27,1.9,2,2,2,Very helpful overall.
+RESP0161,STU0087,Post,Leadership Development Survey,2024-05-15,2.2,2,2,2,Would love more one-on-one support.
+RESP0162,STU0088,Pre,Leadership Development Survey,2023-08-22,2.6,3,3,3,I appreciated the peer connections.
+RESP0163,STU0088,Post,Leadership Development Survey,2024-06-20,2.9,3,3,3,I appreciated the peer connections.
+RESP0164,STU0089,Pre,Career Readiness Survey,2024-09-18,3.4,3,3,3,
+RESP0165,STU0089,Post,Career Readiness Survey,2024-05-15,4.3,4,4,4,Very helpful overall.
+RESP0166,STU0090,Pre,Career Readiness Survey,2023-08-10,1.8,2,1,2,
+RESP0167,STU0090,Post,Career Readiness Survey,2023-11-05,1.9,2,2,2,I appreciated the peer connections.
+RESP0168,STU0091,Pre,Academic Success Survey,2023-09-17,2.3,2,2,2,I feel more confident about my path.
+RESP0169,STU0091,Post,Academic Success Survey,2024-05-15,3.8,4,4,4,The workshops helped me understand my options.
+RESP0170,STU0092,Pre,Career Readiness Survey,2024-09-07,2.7,3,3,3,Would love more one-on-one support.
+RESP0171,STU0093,Pre,Academic Success Survey,2024-08-10,2.3,2,3,2,The workshops helped me understand my options.
+RESP0172,STU0094,Pre,Academic Success Survey,2024-09-11,3.1,3,3,3,I appreciated the peer connections.
+RESP0173,STU0095,Pre,Academic Success Survey,2023-08-28,1.9,2,2,2,Would love more one-on-one support.
+RESP0174,STU0096,Pre,Career Readiness Survey,2023-08-17,2.4,2,2,3,I appreciated the peer connections.
+RESP0175,STU0096,Post,Career Readiness Survey,2024-06-04,2.8,3,3,3,Would love more one-on-one support.
+RESP0176,STU0097,Pre,Academic Success Survey,2023-08-03,3.1,3,4,3,
+RESP0177,STU0097,Post,Academic Success Survey,2024-05-15,3.7,4,3,4,Would love more one-on-one support.
+RESP0178,STU0098,Pre,Academic Success Survey,2024-09-11,3.0,3,3,3,I feel more confident about my path.
+RESP0179,STU0098,Post,Academic Success Survey,2024-05-15,4.4,5,4,5,Very helpful overall.
+RESP0180,STU0099,Pre,Leadership Development Survey,2023-09-08,2.0,2,2,2,Would love more one-on-one support.
+RESP0181,STU0099,Post,Leadership Development Survey,2024-05-15,3.8,3,3,4,The workshops helped me understand my options.
+RESP0182,STU0100,Pre,Career Readiness Survey,2023-08-11,2.3,3,2,2,Very helpful overall.
+RESP0183,STU0100,Post,Career Readiness Survey,2024-05-15,3.1,3,3,3,I appreciated the peer connections.
+RESP0184,STU0101,Pre,Leadership Development Survey,2024-08-06,1.9,2,2,2,
+RESP0185,STU0101,Post,Leadership Development Survey,2025-02-10,2.3,2,3,2,I feel more confident about my path.
+RESP0186,STU0102,Pre,Academic Success Survey,2023-09-15,2.9,3,3,3,The workshops helped me understand my options.
+RESP0187,STU0102,Post,Academic Success Survey,2024-05-15,4.5,4,5,5,
+RESP0188,STU0103,Pre,Academic Success Survey,2023-09-19,2.9,3,3,3,
+RESP0189,STU0103,Post,Academic Success Survey,2024-05-15,3.8,4,4,4,I feel more confident about my path.
+RESP0190,STU0104,Pre,Academic Success Survey,2024-09-04,2.4,2,3,3,I appreciated the peer connections.
+RESP0191,STU0104,Post,Academic Success Survey,2024-05-15,3.2,3,3,3,
+RESP0192,STU0105,Pre,Leadership Development Survey,2024-09-09,2.8,2,3,3,
+RESP0193,STU0105,Post,Leadership Development Survey,2024-05-15,4.1,4,4,4,The workshops helped me understand my options.
+RESP0194,STU0106,Pre,Career Readiness Survey,2024-09-08,2.1,3,2,2,I appreciated the peer connections.
+RESP0195,STU0106,Post,Career Readiness Survey,2024-05-15,2.7,3,3,3,Very helpful overall.
+RESP0196,STU0107,Pre,Academic Success Survey,2023-09-02,2.4,3,3,3,I feel more confident about my path.
+RESP0197,STU0107,Post,Academic Success Survey,2024-05-15,2.8,2,3,3,I feel more confident about my path.
+RESP0198,STU0108,Pre,Career Readiness Survey,2024-08-26,3.3,3,4,3,I feel more confident about my path.
+RESP0199,STU0108,Post,Career Readiness Survey,2024-05-15,4.1,5,4,5,The workshops helped me understand my options.
+RESP0200,STU0109,Pre,Academic Success Survey,2023-09-24,3.2,4,3,4,I appreciated the peer connections.
+RESP0201,STU0109,Post,Academic Success Survey,2024-05-15,4.1,4,4,4,
+RESP0202,STU0110,Pre,Leadership Development Survey,2023-09-03,1.8,2,1,2,I appreciated the peer connections.
+RESP0203,STU0110,Post,Leadership Development Survey,2024-06-12,2.9,3,3,3,I feel more confident about my path.
+RESP0204,STU0111,Pre,Career Readiness Survey,2024-08-16,2.9,3,2,3,The workshops helped me understand my options.
+RESP0205,STU0111,Post,Career Readiness Survey,2024-05-15,4.6,5,5,5,I feel more confident about my path.
+RESP0206,STU0112,Pre,Leadership Development Survey,2023-09-23,2.9,3,3,3,Would love more one-on-one support.
+RESP0207,STU0112,Post,Leadership Development Survey,2024-05-15,3.3,3,3,3,I feel more confident about my path.
+RESP0208,STU0113,Pre,Career Readiness Survey,2024-08-08,2.0,2,2,2,I appreciated the peer connections.
+RESP0209,STU0113,Post,Career Readiness Survey,2025-06-19,2.9,3,3,3,The workshops helped me understand my options.
+RESP0210,STU0114,Pre,Leadership Development Survey,2023-09-09,3.0,3,3,3,Very helpful overall.
+RESP0211,STU0114,Post,Leadership Development Survey,2024-06-08,3.5,3,4,3,
+RESP0212,STU0115,Pre,Leadership Development Survey,2024-09-02,2.3,2,3,3,Very helpful overall.
+RESP0213,STU0115,Post,Leadership Development Survey,2025-01-26,2.8,3,2,2,I feel more confident about my path.
+RESP0214,STU0116,Pre,Career Readiness Survey,2023-08-26,2.2,2,2,3,I appreciated the peer connections.
+RESP0215,STU0116,Post,Career Readiness Survey,2024-02-16,2.1,2,2,2,Very helpful overall.
+RESP0216,STU0117,Pre,Career Readiness Survey,2023-08-11,3.1,3,3,3,
+RESP0217,STU0118,Pre,Career Readiness Survey,2024-08-05,2.4,3,3,2,Very helpful overall.
+RESP0218,STU0118,Post,Career Readiness Survey,2024-05-15,3.9,4,4,4,I feel more confident about my path.
+RESP0219,STU0119,Pre,Academic Success Survey,2023-08-05,2.5,3,3,2,Would love more one-on-one support.
+RESP0220,STU0119,Post,Academic Success Survey,2024-05-15,2.9,3,3,3,Very helpful overall.
+RESP0221,STU0120,Pre,Leadership Development Survey,2024-08-15,2.2,3,2,2,I appreciated the peer connections.
+RESP0222,STU0120,Post,Leadership Development Survey,2024-05-15,3.4,3,4,3,I appreciated the peer connections.
+RESP0223,STU0121,Pre,Career Readiness Survey,2024-09-28,2.5,3,2,2,I feel more confident about my path.
+RESP0224,STU0121,Post,Career Readiness Survey,2024-05-15,2.9,2,2,3,I feel more confident about my path.
+RESP0225,STU0122,Pre,Leadership Development Survey,2023-08-03,2.3,3,3,2,I appreciated the peer connections.
+RESP0226,STU0122,Post,Leadership Development Survey,2024-05-15,3.5,4,4,3,
+RESP0227,STU0123,Pre,Leadership Development Survey,2024-09-15,2.8,3,3,3,The workshops helped me understand my options.
+RESP0228,STU0123,Post,Leadership Development Survey,2025-05-28,3.2,3,3,3,The workshops helped me understand my options.
+RESP0229,STU0124,Pre,Academic Success Survey,2023-08-14,3.2,4,3,3,Very helpful overall.
+RESP0230,STU0124,Post,Academic Success Survey,2024-05-11,4.0,4,4,4,I feel more confident about my path.
+RESP0231,STU0125,Pre,Career Readiness Survey,2024-09-03,3.2,3,3,4,The workshops helped me understand my options.
+RESP0232,STU0125,Post,Career Readiness Survey,2024-05-15,3.5,3,3,3,Would love more one-on-one support.
+RESP0233,STU0126,Pre,Leadership Development Survey,2024-08-19,2.8,3,2,3,
+RESP0234,STU0126,Post,Leadership Development Survey,2024-05-15,4.1,4,4,4,
+RESP0235,STU0127,Pre,Academic Success Survey,2024-09-12,2.8,2,3,3,Very helpful overall.
+RESP0236,STU0127,Post,Academic Success Survey,2024-05-15,3.3,4,4,3,The workshops helped me understand my options.
+RESP0237,STU0128,Pre,Leadership Development Survey,2023-09-04,2.8,3,3,3,I feel more confident about my path.
+RESP0238,STU0128,Post,Leadership Development Survey,2024-05-15,4.3,5,4,5,I appreciated the peer connections.
+RESP0239,STU0129,Pre,Leadership Development Survey,2023-09-01,2.3,2,2,3,
+RESP0240,STU0130,Pre,Leadership Development Survey,2023-09-03,3.1,3,3,3,Very helpful overall.
+RESP0241,STU0130,Post,Leadership Development Survey,2024-05-15,4.9,5,5,5,Very helpful overall.
+RESP0242,STU0131,Pre,Academic Success Survey,2023-09-11,2.4,3,2,3,I feel more confident about my path.
+RESP0243,STU0131,Post,Academic Success Survey,2024-05-02,3.8,3,4,4,Would love more one-on-one support.
+RESP0244,STU0132,Pre,Academic Success Survey,2023-09-22,2.6,2,3,2,I feel more confident about my path.
+RESP0245,STU0132,Post,Academic Success Survey,2024-05-15,3.5,4,4,4,Would love more one-on-one support.
+RESP0246,STU0133,Pre,Academic Success Survey,2023-08-10,3.0,3,3,3,I appreciated the peer connections.
+RESP0247,STU0133,Post,Academic Success Survey,2024-05-15,4.0,4,4,4,Very helpful overall.
+RESP0248,STU0134,Pre,Leadership Development Survey,2023-08-01,2.3,2,2,2,Very helpful overall.
+RESP0249,STU0134,Post,Leadership Development Survey,2024-05-25,2.8,3,3,2,Would love more one-on-one support.
+RESP0250,STU0135,Pre,Career Readiness Survey,2024-09-24,2.1,2,2,2,I feel more confident about my path.
+RESP0251,STU0135,Post,Career Readiness Survey,2024-05-15,2.9,3,2,3,Very helpful overall.
+RESP0252,STU0136,Pre,Academic Success Survey,2024-08-14,2.6,3,3,2,I appreciated the peer connections.
+RESP0253,STU0136,Post,Academic Success Survey,2024-05-15,2.9,3,3,3,The workshops helped me understand my options.
+RESP0254,STU0137,Pre,Academic Success Survey,2024-09-10,2.5,3,3,3,The workshops helped me understand my options.
+RESP0255,STU0138,Pre,Academic Success Survey,2024-08-08,2.8,3,3,3,
+RESP0256,STU0138,Post,Academic Success Survey,2024-05-15,3.8,4,4,3,
+RESP0257,STU0139,Pre,Academic Success Survey,2024-08-03,2.9,3,3,3,The workshops helped me understand my options.
+RESP0258,STU0139,Post,Academic Success Survey,2024-05-15,3.9,4,4,4,I feel more confident about my path.
+RESP0259,STU0140,Pre,Career Readiness Survey,2024-08-05,2.1,3,2,2,I feel more confident about my path.
+RESP0260,STU0140,Post,Career Readiness Survey,2024-05-15,3.3,4,4,3,
+RESP0261,STU0141,Pre,Leadership Development Survey,2024-09-22,2.9,3,3,3,Very helpful overall.
+RESP0262,STU0141,Post,Leadership Development Survey,2025-06-28,4.7,4,4,5,I feel more confident about my path.
+RESP0263,STU0142,Pre,Academic Success Survey,2024-09-21,3.2,3,3,3,The workshops helped me understand my options.
+RESP0264,STU0142,Post,Academic Success Survey,2024-05-15,4.3,4,4,4,Would love more one-on-one support.
+RESP0265,STU0143,Pre,Academic Success Survey,2023-09-02,2.4,3,3,2,I appreciated the peer connections.
+RESP0266,STU0143,Post,Academic Success Survey,2024-05-15,3.1,3,4,3,Very helpful overall.
+RESP0267,STU0144,Pre,Leadership Development Survey,2024-08-15,2.9,3,3,3,I appreciated the peer connections.
+RESP0268,STU0144,Post,Leadership Development Survey,2025-06-17,3.6,4,4,4,The workshops helped me understand my options.
+RESP0269,STU0145,Pre,Academic Success Survey,2024-08-17,2.1,2,2,2,I feel more confident about my path.
+RESP0270,STU0145,Post,Academic Success Survey,2024-05-15,2.7,2,3,3,
+RESP0271,STU0146,Pre,Academic Success Survey,2023-09-13,3.1,3,3,3,The workshops helped me understand my options.
+RESP0272,STU0146,Post,Academic Success Survey,2024-05-15,4.4,4,4,4,Very helpful overall.
+RESP0273,STU0147,Pre,Academic Success Survey,2024-08-18,2.5,2,2,3,The workshops helped me understand my options.
+RESP0274,STU0147,Post,Academic Success Survey,2024-05-15,3.1,3,3,3,
+RESP0275,STU0148,Pre,Leadership Development Survey,2024-08-12,3.4,3,3,3,The workshops helped me understand my options.
+RESP0276,STU0148,Post,Leadership Development Survey,2024-05-15,4.7,4,4,5,The workshops helped me understand my options.
+RESP0277,STU0149,Pre,Leadership Development Survey,2023-09-21,3.2,3,4,3,
+RESP0278,STU0149,Post,Leadership Development Survey,2024-05-15,4.5,5,4,5,I feel more confident about my path.
+RESP0279,STU0150,Pre,Academic Success Survey,2024-08-12,2.1,2,2,3,Would love more one-on-one support.
+RESP0280,STU0150,Post,Academic Success Survey,2025-01-13,2.0,2,2,2,I feel more confident about my path.
