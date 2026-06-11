@@ -51,13 +51,32 @@ This project replicates the kind of data system used by college success, experie
 
 
 
+
+
+------
+-------
+
+
+
+
+
 <img width="1328" height="637" alt="Screenshot 2026-06-11 at 12 57 43 PM" src="https://github.com/user-attachments/assets/86394be6-019a-405a-9ded-78e76b17ca6e" />
 
 
 
 
+
+-----
+------
+
+
+
 <img width="1314" height="553" alt="Screenshot 2026-06-11 at 12 58 13 PM" src="https://github.com/user-attachments/assets/df37a0cd-f154-4e40-9d76-03c6ff491531" />
 
+
+
+
+---------
 ---
 
 ## Data Dictionary
